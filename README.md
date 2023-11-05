@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itxabhishekpal
+- 👋 Hi, I’m @itxabhishekpal, a Front-end Developer.
 - 👀 I’m interested in Learning New Technologies.
 - 🌱 I’m currently learning Reactjs
 - 📫 itxabhishekpal@gmail.com
